@@ -1,0 +1,13 @@
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/bin/Release/netstandard2.0/MyWeather.deps.json
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/bin/Release/netstandard2.0/MyWeather.dll
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/bin/Release/netstandard2.0/MyWeather.pdb
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/obj/Release/netstandard2.0/View/ForecastView.xaml.g.cs
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/obj/Release/netstandard2.0/View/MainTabs.xaml.g.cs
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/obj/Release/netstandard2.0/View/WeatherView.xaml.g.cs
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/obj/Release/netstandard2.0/MyWeather.csproj.CoreCompileInputs.cache
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/obj/Release/netstandard2.0/MyWeather.AssemblyInfoInputs.cache
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/obj/Release/netstandard2.0/MyWeather.AssemblyInfo.cs
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/obj/Release/netstandard2.0/XamlC.stamp
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/obj/Release/netstandard2.0/MyWeather.dll
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/obj/Release/netstandard2.0/MyWeather.pdb
+/Users/marshall/Downloads/MyWeather.Forms-master/MyWeather/obj/Release/netstandard2.0/MyWeather.csprojAssemblyReference.cache

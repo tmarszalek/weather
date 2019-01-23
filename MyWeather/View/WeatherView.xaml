@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyWeather.View.WeatherView"
+             Title="Pogoda">
+    <StackLayout Padding="10" Spacing="10">
+        <Entry Text="{Binding Location}">
+            <Entry.Triggers>
+                <DataTrigger TargetType="Entry"
+                             Value="true">
+                    <Setter Property="IsEnabled" Value="false"/>
+                </DataTrigger>
+            </Entry.Triggers>
+        </Entry>
+
+        <Button Text="Sprawdź pogodę" Command="{Binding GetWeatherCommand}"/>
+        <Label Text="{Binding Temp}" FontSize="24"/>
+        <Label Text="{Binding Condition}"/>
+        <ActivityIndicator IsVisible="{Binding IsBusy}" IsRunning="{Binding IsBusy}"/>
+    </StackLayout>
+</ContentPage>
+
+
+
+
+
+
+
+
+
